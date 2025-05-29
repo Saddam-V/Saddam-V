@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love clean UIs and cats 🐱
 
 ## 🚀 Tech Stack:
-React, JavaScript, HTML, CSS, Git, Firebase, TailwindCSS
+React, JavaScript, HTML, CSS, Git, TailwindCSS
 
 ### 📈 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Saddam-V&show_icons=true&theme=radical)

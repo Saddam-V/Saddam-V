@@ -10,5 +10,4 @@
 ## 🚀 Tech Stack:
 React, JavaScript, HTML, CSS, Git, TailwindCSS
 
-### 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Saddam-V&show_icons=true&theme=radical)
+
